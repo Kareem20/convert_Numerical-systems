@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <string name="title_activity_decimal_to_binary">decimalToBinary</string>
+</resources>
