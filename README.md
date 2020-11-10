@@ -1,14 +1,14 @@
-# convert_Numerical-systems
+# convert Numerical Systems
 
 convert app to convert between the numerical Systems.
 
-hexadecimal to binary,deciaml and octal.
+  1-hexadecimal to binary,deciaml and octal.
 
-octal to binary,deciaml and hexadecimal.
+  2-octal to binary,deciaml and hexadecimal.
 
-binary to hexadecimal,deciaml and octal.
+  3-binary to hexadecimal,deciaml and octal.
 
-decimal to binary,hexadecimal and octal.
+  4-decimal to binary,hexadecimal and octal.
 
 Icons from
 
